@@ -1,8 +1,7 @@
 ### Link for download
 
-'''
 https://www.anaconda.com/anaconda-navigator
-'''
+
 
 ## Create a virtual environment
 
