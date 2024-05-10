@@ -1,3 +1,9 @@
+# Link for download
+
+'''
+https://www.anaconda.com/anaconda-navigator
+'''
+
 # Create a virtual environment
 
 '''
@@ -20,7 +26,11 @@ git add .
 '''
 
 '''
-git commit -m "first commit"
+git commit -m "first  commit"
+'''
+
+'''
+git branch -M main
 '''
 
 '''
