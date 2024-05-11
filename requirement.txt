@@ -1,9 +1,8 @@
 pandas
 numpy
 Flask
-urllib
 seaborn
-beautifulsoup
+matplotlib
 
 
 -e .
