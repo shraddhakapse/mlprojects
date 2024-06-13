@@ -1,0 +1,4 @@
+[2024-06-13 15:06:36,148] 22 root -INFO data ingestion started
+[2024-06-13 15:06:38,599] 25 root -INFO data reading from pandas dataframe is completed
+[2024-06-13 15:06:41,004] 34 root -INFO train and test data split is completed
+[2024-06-13 15:06:42,814] 41 root -INFO data ingestion is successfully completed
