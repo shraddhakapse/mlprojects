@@ -64,7 +64,7 @@ class ModelTrainer:
             logging.info(f'Best Model Found , Model Name : {best_model_name} , R2 Score : {best_model_score}')
 
             save_model(
-                 file_path=self.model_trainer_config.trained_model_file_path,
+                 file_path=self.model_config_trainer.trained_model_file_path,
                  obj=best_model
             )
           

@@ -1,0 +1,11 @@
+[2024-06-14 15:05:26,464] 97 werkzeug -WARNING  * Debugger is active!
+[2024-06-14 15:05:26,492] 97 werkzeug -INFO  * Debugger PIN: 109-122-228
+[2024-06-14 15:05:28,202] 97 werkzeug -INFO 127.0.0.1 - - [14/Jun/2024 15:05:28] "GET /predict HTTP/1.1" 200 -
+[2024-06-14 15:05:37,098] 68 root -INFO Dataframe Gathered
+[2024-06-14 15:05:37,485] 97 werkzeug -INFO 127.0.0.1 - - [14/Jun/2024 15:05:37] "POST /predict HTTP/1.1" 200 -
+[2024-06-14 15:05:58,198] 97 werkzeug -INFO 127.0.0.1 - - [14/Jun/2024 15:05:58] "GET /predict HTTP/1.1" 200 -
+[2024-06-14 15:06:59,514] 68 root -INFO Dataframe Gathered
+[2024-06-14 15:06:59,560] 97 werkzeug -INFO 127.0.0.1 - - [14/Jun/2024 15:06:59] "POST /predict HTTP/1.1" 200 -
+[2024-06-14 15:07:08,525] 97 werkzeug -INFO 127.0.0.1 - - [14/Jun/2024 15:07:08] "GET /predict HTTP/1.1" 200 -
+[2024-06-14 15:07:29,420] 68 root -INFO Dataframe Gathered
+[2024-06-14 15:07:29,472] 97 werkzeug -INFO 127.0.0.1 - - [14/Jun/2024 15:07:29] "POST /predict HTTP/1.1" 200 -
